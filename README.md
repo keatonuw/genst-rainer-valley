@@ -23,7 +23,7 @@
 ### _Transportation:_
 
 ### _Education:_
-![Household income Rainier vs rest of Seattle](Education_pic.jpg)
+![Household income Rainier vs rest of Seattle](https://societyhealth.vcu.edu/media/society-health/projects/ehi2/VCU-CSH-EarningsUnemploymentEducation-Outlined.jpg)
 Education is a public health barrier for Rainier Valley. Education typically leads to better jobs, more money and many other benefits, including better health insurance, which leads to better access to quality health care.
 
 On analysing the education centers in Rainier Valley, it can be noticed that there is an abundance of basic public elementary and middle schools however, there are only about 2 or 3 reputed high schools and universities.
