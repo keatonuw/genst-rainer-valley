@@ -1,19 +1,13 @@
 # **_Rainer Valley_**
 
 ## **Background Info**
-### _Transportation_
-1) https://www.thestranger.com/slog/2019/08/20/41146461/rainier-avenue-is-the-crashiest-street-in-seattle
-2) https://historylink.org/File/3092#:~:text=The%20first%20non%2DIndian%20settlers,suburban%20and%20eventually%20urban%20development.
+["America’s most diverse ZIP code, the Census Bureau reports, is 98118 — the Rainier Valley neighborhood five miles south of downtown Seattle" (Seattle Times Staff)](https://www.seattletimes.com/opinion/seattles-rainier-valley-one-of-americas-dynamic-neighborhoods/)
 
-### _Education_
-1) https://www.aafp.org/news/blogs/leadervoices/entry/learning_matters_how_education_affects.html#:~:text=Education%20typically%20leads%20to%20better,as%20well%20as%20healthier%20diets.<br>
-2) https://www.city-data.com/neighborhood/Rainier-Valley-Seattle-WA.html<br>
-3) https://www.indeed.com/l-Rainier-Valley,-WA-jobs.html<br>
-4) https://www.schooldigger.com/go/WA/city/Seattle/search.aspx<br>
+Additional demographics statistics pulled from [City Data](https://www.city-data.com/neighborhood/Rainier-Valley-Seattle-WA.html) provide extra insight:
+ - The average household size is 4.3 - above Seattle's 2.1
+ - The average rent in 2016 was $1,015
+ - 30.2% of residents are foreign-born
 
-### _Urban Planning_
-
-### _homelessness_
 
 ## **Observations**
 - Rainer Valley has a lot of residential space for its inhabitants
@@ -31,7 +25,7 @@ I did my research mainly focusing on traffic accidents for this topic. So I woul
 ![Household income Rainier vs rest of Seattle](https://societyhealth.vcu.edu/media/society-health/projects/ehi2/VCU-CSH-EarningsUnemploymentEducation-Outlined.jpg)
 Education is a public health barrier for Rainier Valley. Education typically leads to better jobs, more money and many other benefits, including better health insurance, which leads to better access to quality health care.
 
-On analysing the education centers in Rainier Valley, it can be noticed that there is an abundance of basic public elementary and middle schools however, there are only about 2 or 3 reputed high schools and universities.
+On analyzing the education centers in Rainier Valley, it can be noticed that there is an abundance of basic public elementary and middle schools however, there are only about 2 or 3 reputed high schools and universities.
 This lack of higher education has consequences as notable from a 2016 demographic that mentions :-
 
 Median household income in Rainier Valley = $70,098<br>
@@ -53,9 +47,9 @@ Beekman, Daniel. “Seattle Mayor Picks Rainier Valley for 3rd Homeless Camp.”
 “City-Permitted Villages.” Homelessness, www.seattle.gov/homelessness/city-permitted-villages.
 Lambert, Ken. “Othello Encampment.” The Seattle Times, The Seattle Times Company, static.seattletimes.com/wp-content/uploads/2016/02/af2aea60-d901-11e5-861a-af5243d93b9e-1020x691.jpg. “Gentrification Is Underway in Rainier Valley.” Puget Sound Sage, Puget Sound Sage, www.pugetsoundsage.org/gentrification-is-underway-in-rainier-valley/.
 
-"Rainier Beach Neighborhood Plan", seattle gov, https://www.seattle.gov/Documents/Departments/OPCD/OngoingInitiatives/RainierBeach/RainierBeachNeighborhoodPlanUpdate.pdf
+"Rainier Beach Neighborhood Plan", Seattle gov, https://www.seattle.gov/Documents/Departments/OPCD/OngoingInitiatives/RainierBeach/RainierBeachNeighborhoodPlanUpdate.pdf
 
- David Sauvion. "RAINIER BEACH, HERE COMES THE NEIGHBORHOOD PLAN", South seattle emeralo, October 11, 2016,https://southseattleemerald.com/2016/10/11/op-ed-rainier-beach-here-comes-the-neighborhood-plan/
+ David Sauvion. "RAINIER BEACH, HERE COMES THE NEIGHBORHOOD PLAN", South Seattle Emerald, October 11, 2016,https://southseattleemerald.com/2016/10/11/op-ed-rainier-beach-here-comes-the-neighborhood-plan/
 
 Chris S. Kochtitzky, MSP,1 H. Frumkin, MD, DrPH,2 R. Rodriguez, MA,2 A. L. Dannenberg, MD,2 J. Rayman, MPH,2 K. Rose, MPA,2 R. Gillig, MCP,2 T. Kanter, MURP. “Urban Planning Crucial for Better Public Health in Cities.” World Health Organization, World Health Organization, 22 Dec. 2006, https://www.safetylit.org/citations/index.php?fuseaction=citations.viewdetails&citationIds[]=citjournalarticle_58290_3  
 
@@ -67,6 +61,8 @@ Hahn, Robert A, and Benedict I Truman. “Education Improves Public Health and P
 
 Litman, Todd. “Transportation and Public Health.” Annual Review of Public Health, vol. 34, no. 1, 2013, pp. 217–233.
 
-Mudede, Charles. “Rainier Avenue Is the Crashiest Street in Seattle.” Thestranger, 20 Aug. 2019, www.thestranger.com/slog/2019/08/20/41146461/rainier-avenue-is-the-crashiest-street-in-seattle.
+Mudede, Charles. “Rainier Avenue Is the Crashiest Street in Seattle.” The Stranger, 20 Aug. 2019, www.thestranger.com/slog/2019/08/20/41146461/rainier-avenue-is-the-crashiest-street-in-seattle.
 
 Wilma, David. Rainier Valley -- Thumbnail History, 13 Mar. 2001, historylink.org/File/3092.
+
+Seattle Times Staff. “Seattle's Rainier Valley, One of America's 'Dynamic Neighborhoods'.” The Seattle Times, The Seattle Times Company, 20 June 2010, www.seattletimes.com/opinion/seattles-rainier-valley-one-of-americas-dynamic-neighborhoods/.
