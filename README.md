@@ -2,6 +2,8 @@
 
 ## **Background Info**
 ### _Transportation_
+1) https://www.thestranger.com/slog/2019/08/20/41146461/rainier-avenue-is-the-crashiest-street-in-seattle
+2) https://historylink.org/File/3092#:~:text=The%20first%20non%2DIndian%20settlers,suburban%20and%20eventually%20urban%20development.
 
 ### _Education_
 1) https://www.aafp.org/news/blogs/leadervoices/entry/learning_matters_how_education_affects.html#:~:text=Education%20typically%20leads%20to%20better,as%20well%20as%20healthier%20diets.<br>
@@ -18,9 +20,12 @@
 - Rainer Valley has experienced a lot of gentrification, which is evident by the shifting demographics
 - There were relatively few unauthorized encampments
 - There were a lot of urban area that are old and waiting to be developed
+- There are many community facilities centers at Rainier Avenue
 
 ## **Population Health Topics**
 ### _Transportation:_
+![rainier_ave](https://www.seattle.gov/Images/Departments/SDOT/VisionZero/RainierAfter.png)
+I did my research mainly focusing on traffic accidents for this topic. So I would consider this for a barrier to the neighborhood. I noticed that Rainier Valley has the most train collisions, and there is an avenue called Rainier Avenue, which has the most frequent car accidents in Seattle, and these cause many deaths and injuries in the neighborhood per year.
 
 ### _Education:_
 ![Household income Rainier vs rest of Seattle](https://societyhealth.vcu.edu/media/society-health/projects/ehi2/VCU-CSH-EarningsUnemploymentEducation-Outlined.jpg)
@@ -59,3 +64,9 @@ Jason Corburn, PhD, MCP. "Confronting the Challenges in Reconnecting Urban Plann
 Baker, David P, et al. “The Education Effect on Population Health: a Reassessment.” Population and Development Review, U.S. National Library of Medicine, 2011, www.ncbi.nlm.nih.gov/pmc/articles/PMC3188849/.
 
 Hahn, Robert A, and Benedict I Truman. “Education Improves Public Health and Promotes Health Equity.” International Journal of Health Services : Planning, Administration, Evaluation, U.S. National Library of Medicine, 2015, www.ncbi.nlm.nih.gov/pmc/articles/PMC4691207/.
+
+Litman, Todd. “Transportation and Public Health.” Annual Review of Public Health, vol. 34, no. 1, 2013, pp. 217–233.
+
+Mudede, Charles. “Rainier Avenue Is the Crashiest Street in Seattle.” Thestranger, 20 Aug. 2019, www.thestranger.com/slog/2019/08/20/41146461/rainier-avenue-is-the-crashiest-street-in-seattle.
+
+Wilma, David. Rainier Valley -- Thumbnail History, 13 Mar. 2001, historylink.org/File/3092.
